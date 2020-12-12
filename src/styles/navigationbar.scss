@@ -1,0 +1,36 @@
+@use '../constants/colors.js';
+
+.img-size {
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  display: block;
+}
+
+.img-container {
+  margin: auto;
+  display: block;
+  width: 90%;
+  margin-top: 100px;
+  height: 50px;
+  position: absolute;
+  right: 0px;
+  background-color: #8EE1FF;
+  display: flex;
+}
+
+.sign{
+    float: right;
+    margin: 18px 3px 5px 10px;
+    color: #EFF3F9;
+    font-weight: bolder;
+}
+
+.menu-img-size {
+  width: 25px;
+  height: 25px;
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-left: 10px;
+}
